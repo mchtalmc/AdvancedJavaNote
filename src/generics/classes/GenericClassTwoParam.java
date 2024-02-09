@@ -1,4 +1,4 @@
-package generics;
+package generics.classes;
 
 public class GenericClassTwoParam <S,U>{
 
